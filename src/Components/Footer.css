@@ -1,0 +1,10 @@
+.footercss{
+    
+    width: 90%;
+    height: 5rem;
+    margin:10px auto;
+    color: aliceblue;
+    padding-top: 10px;
+    font-family: "Architects Daughter",cursive;
+    font-weight: bold;
+}

@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+}
+
+.cardcss{
+background-color: white;
+margin: 20px auto;
+width: 90%;
+height: 86vh;
+border-radius: 20px;
+
+}
+.form input{
+  background-color: transparent;
+  box-sizing: border-box;
+  padding: 0.7rem;
+  font-family: "Architects Daughter",cursive;
+  border: solid 40px transparent;
+  border-bottom: dashed 3px #d3540a;
+  outline: none;
+}
+button{
+  border-radius: 5px;
+}
+button span:hover {
+  cursor: pointer;
+  background-color:rgb(87, 80, 80);
+}
+.list{
+  float: left;
+  display: flex;
+  flex-wrap: wrap;
+  text-align: left;
+  margin-left: 1rem;
+  padding: 1rem;
+  font-family:"Architects Daughter",cursive;
+  font-weight: 800;
+  overflow: hidden;
+  box-sizing: border-box;
+
+}
